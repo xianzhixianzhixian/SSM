@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Sep 30 12:55:23 CST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KevinSmith\\Desktop\\SSM\\SSM\\eclipse\\ssm-annotation-mybatis\\WebContent\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar=D\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\ssm-annotation-mybatis\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:ssm-annotation-mybatis=D\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\ssm-annotation-mybatis
